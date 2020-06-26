@@ -1,0 +1,12 @@
+help:
+  - '&9------- &e&lParties Help &r&9-------'
+  - '&a/p invite <name> &6Invite a player to your party.'
+  - '&a/p invites &6List your invites to parties.'
+  - '&a/p accept <name> &6Accept a party invite.'
+  - '&a/p deny <name> &6Deny a party invite.'
+  - '&a/p chat &6Chat with your party.'
+  - '&a/p status &6Check the status of your party.'
+  - '&a/p leave &6Leave your party.'
+  - '&a/p disband &6Disband (delete) your party.'
+  - '&a/p kick <name> &6Kick a member from your party.'
+  - '&a/p setowner <name> &6Change the owner of the party.'

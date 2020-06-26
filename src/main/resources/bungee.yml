@@ -1,0 +1,5 @@
+name: BungeeParties
+version: ${project.version}
+main: me.pafias.bungeeparties.BungeeParties
+author: Pafias
+description: Party system for a network
